@@ -1,0 +1,9 @@
+{
+    "base_model_id": "stabilityai/stable-diffusion-XL-base-1.0",
+    "refiner_model_id": "stabilityai/stable-diffusion-XL-refiner-1.0",
+    "inpainting_parameters": {
+        "high_noise_frac": 0.7,
+        "strength": 0.8,
+        "seed": 42
+    }
+}
